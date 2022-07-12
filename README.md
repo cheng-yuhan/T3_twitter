@@ -1,2 +1,2 @@
 # T3_twitter
-Data analysis Twitter data Based on Nature language processing
+WDTSA: A model trained to predict real time outage caused by winter storm
